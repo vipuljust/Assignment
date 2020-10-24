@@ -1,0 +1,5 @@
+com\scrolltest\apidemo\tests\TestPATCHRate.class
+com\scrolltest\apidemo\tests\TestGETrate.class
+com\scrolltest\apidemo\tests\TestPOSTRate.class
+com\scrolltest\apidemo\tests\TestDELETERate.class
+com\scrolltest\apidemo\tests\TestAuth.class
